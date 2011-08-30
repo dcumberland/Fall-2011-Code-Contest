@@ -14,6 +14,8 @@ The challenge is made up of two parts.
 
 All entries must accept a command line paramter of the starting number and output the sequence as single line like shown above in the examples.
 
+The contest ends on September 30th
+
 
 The Prize:
 The winning submition will be determined by the fastest execution time.  Should multiple entries be close on execution time, the winner will go to the cleanest code (easiest to read).
@@ -22,3 +24,23 @@ Second place is $200 and third place is $50.
 
 Entries must include the name and contact information for each member of the team.  Individuals and team efforts are judged and awarded equally.  All contestents must be current students of Cal Poly San Luis Obispo.
 
+
+How to submit an entry:
+1. Create an account on GitHub (http://github.com)
+2. Fork the project: https://github.com/dcumberlandshopatron/Fall-2011-Code-Contest
+If you are new to github, they have instructions at http://help.github.com/fork-a-repo/
+3. Commit your code to your fork of the code contest
+4. Send us a pull request (http://help.github.com/send-pull-requests/).  Only submitions with a pull request submitted will be accepted.  The submitted code must include the name and email address of all contributors as comments in the code.
+
+
+Accepted languages:
+Java
+PHP
+Ruby
+Perl
+C
+
+Other languages are accepted but contingent being able to run on Linux.  A make/ant script will be required for compiled languages.
+
+
+Questions and clarifications should be sent to dcumberland@shopatron.com.  Check back at https://github.com/dcumberlandshopatron/Fall-2011-Code-Contest for further updates to the contest details.
